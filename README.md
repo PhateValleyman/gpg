@@ -1,1 +1,0 @@
-# Phate Valleyman's <Jonas.Ned@outlook.com> cert & gpg keys repository
